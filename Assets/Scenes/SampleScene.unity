@@ -885,6 +885,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gold: 0
   goldText: {fileID: 378632997}
+  backgrounds:
+  - {fileID: 21300000, guid: 5982564da6a4e4bb0b9fa00dcc513b75, type: 3}
+  - {fileID: 21300000, guid: 69aa8feb8e7fa4eec9aad4fd4557e7a5, type: 3}
+  - {fileID: 21300000, guid: 726c27f3c8a1d49609cb5437240bbcee, type: 3}
+  - {fileID: 21300000, guid: e33ac2e976bf34af694914968e30cd60, type: 3}
+  - {fileID: 21300000, guid: ec5053eede461485d918576426eaa5f9, type: 3}
+  backgroundImage: {fileID: 317881637}
 --- !u!1 &1815180196
 GameObject:
   m_ObjectHideFlags: 0
