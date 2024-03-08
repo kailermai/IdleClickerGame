@@ -1,4 +1,4 @@
-2D Idle Clicker Game created using Unity and C#.
+# 2D Idle Clicker Game created using Unity and C#.
 
 Resources obtained from Zenva Academy's Craft a 2D Idle Clicker Game Course
 
