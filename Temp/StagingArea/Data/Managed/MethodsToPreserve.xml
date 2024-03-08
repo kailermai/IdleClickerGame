@@ -1,0 +1,13 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="ClickManager">
+			<method name="OnBuyAutoClicker"/>
+		</type>
+		<type fullname="Enemy">
+			<method name="Damage"/>
+			<method name="Damage"/>
+			<method name="Damage"/>
+			<method name="Damage"/>
+		</type>
+	</assembly>
+</linker>
